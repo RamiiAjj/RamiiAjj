@@ -62,12 +62,6 @@ I'm a **B.Sc. Computer Science student** who enjoys turning ideas into practical
 
 </div>
 
-## GitHub snapshot
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RamiiAjj&show_icons=true&hide_border=true&bg_color=0d1117&title_color=67e8f9&icon_color=8b5cf6&text_color=cbd5e1&rank_icon=github" alt="Rami's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiiAjj&layout=compact&hide_border=true&bg_color=0d1117&title_color=67e8f9&text_color=cbd5e1" alt="Rami's most used languages" />
-</div>
 
 ## Current focus
 
