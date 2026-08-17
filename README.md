@@ -26,13 +26,12 @@ I'm a **B.Sc. Computer Science student** who enjoys turning ideas into practical
       <h3>Portfolio</h3>
       <p>A fast, responsive personal site that presents my background, skills, and project work through a clean interactive experience.</p>
       <p><strong>Next.js · React · TypeScript · Tailwind CSS · Framer Motion</strong></p>
-      <a href="https://my-portfolio-xi-wine-53.vercel.app">Live site</a> · <a href="https://github.com/RamiiAjj/my-portfolio">Source</a>
+      <a href="https://ramiscs.vercel.app/#about">Live site</a> · <a href="https://github.com/RamiiAjj/my-portfolio">Source</a>
     </td>
     <td width="50%" valign="top">
       <h3>MIGAL DSS</h3>
       <p>A decision-support system project combining software engineering with data-focused problem solving and an applied product mindset.</p>
       <p><strong>Data · Machine Learning · Decision Support</strong></p>
-      <a href="https://my-portfolio-xi-wine-53.vercel.app#projects">Project overview</a>
     </td>
   </tr>
   <tr>
